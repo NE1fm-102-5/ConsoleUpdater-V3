@@ -1,0 +1,10 @@
+C:\Users\harry\Documents\Visual Studio 2017\Projects\ConsoleUpdater\ConsoleUpdater\obj\Debug\ConsoleUpdater.csprojAssemblyReference.cache
+C:\Users\harry\Documents\Visual Studio 2017\Projects\ConsoleUpdater\ConsoleUpdater\obj\Debug\ConsoleUpdaterC.Form1.resources
+C:\Users\harry\Documents\Visual Studio 2017\Projects\ConsoleUpdater\ConsoleUpdater\obj\Debug\ConsoleUpdater.csproj.GenerateResource.cache
+C:\Users\harry\Documents\Visual Studio 2017\Projects\ConsoleUpdater\ConsoleUpdater\obj\Debug\ConsoleUpdater.csproj.CoreCompileInputs.cache
+C:\Users\harry\Documents\Visual Studio 2017\Projects\ConsoleUpdater\ConsoleUpdater\obj\Debug\ConsoleUpdater.Properties.Resources.resources
+C:\Users\harry\Documents\Visual Studio 2017\Projects\ConsoleUpdater\ConsoleUpdater\bin\Debug\ConsoleUpdater.exe.config
+C:\Users\harry\Documents\Visual Studio 2017\Projects\ConsoleUpdater\ConsoleUpdater\bin\Debug\ConsoleUpdater.exe
+C:\Users\harry\Documents\Visual Studio 2017\Projects\ConsoleUpdater\ConsoleUpdater\bin\Debug\ConsoleUpdater.pdb
+C:\Users\harry\Documents\Visual Studio 2017\Projects\ConsoleUpdater\ConsoleUpdater\obj\Debug\ConsoleUpdater.exe
+C:\Users\harry\Documents\Visual Studio 2017\Projects\ConsoleUpdater\ConsoleUpdater\obj\Debug\ConsoleUpdater.pdb

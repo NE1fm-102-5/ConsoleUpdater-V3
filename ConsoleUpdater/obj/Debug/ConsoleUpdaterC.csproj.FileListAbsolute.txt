@@ -1,0 +1,10 @@
+c:\users\harry\documents\visual studio 2017\Projects\ConsoleUpdaterC\ConsoleUpdaterC\bin\Debug\ConsoleUpdaterC.exe.config
+c:\users\harry\documents\visual studio 2017\Projects\ConsoleUpdaterC\ConsoleUpdaterC\bin\Debug\ConsoleUpdaterC.exe
+c:\users\harry\documents\visual studio 2017\Projects\ConsoleUpdaterC\ConsoleUpdaterC\bin\Debug\ConsoleUpdaterC.pdb
+c:\users\harry\documents\visual studio 2017\Projects\ConsoleUpdaterC\ConsoleUpdaterC\obj\Debug\ConsoleUpdaterC.csprojAssemblyReference.cache
+c:\users\harry\documents\visual studio 2017\Projects\ConsoleUpdaterC\ConsoleUpdaterC\obj\Debug\ConsoleUpdaterC.Form1.resources
+c:\users\harry\documents\visual studio 2017\Projects\ConsoleUpdaterC\ConsoleUpdaterC\obj\Debug\ConsoleUpdaterC.Properties.Resources.resources
+c:\users\harry\documents\visual studio 2017\Projects\ConsoleUpdaterC\ConsoleUpdaterC\obj\Debug\ConsoleUpdaterC.csproj.GenerateResource.cache
+c:\users\harry\documents\visual studio 2017\Projects\ConsoleUpdaterC\ConsoleUpdaterC\obj\Debug\ConsoleUpdaterC.csproj.CoreCompileInputs.cache
+c:\users\harry\documents\visual studio 2017\Projects\ConsoleUpdaterC\ConsoleUpdaterC\obj\Debug\ConsoleUpdaterC.exe
+c:\users\harry\documents\visual studio 2017\Projects\ConsoleUpdaterC\ConsoleUpdaterC\obj\Debug\ConsoleUpdaterC.pdb
